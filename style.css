@@ -1,9 +1,15 @@
 body{
   background: #ECE9FD;
-  padding: 60px 23px 66px;
+  padding: 6.0rem 2.3rem 6.6rem;
+  font-size: 1.6rem;
+}
+
+:root{
+  font-size: 62.5%;
 }
 
 h1{
   font-family: 'Epilogue', sans-serif;
+  font-size: 2.5rem;
 }
 
